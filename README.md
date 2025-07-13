@@ -6,7 +6,7 @@ Aplicación desarrollada como parte de una prueba técnica para el cargo de Desa
 
 ## 🧩 Tecnologías utilizadas
 
-- Angular 17
+- Angular 19
 - Tailwind CSS
 - localStorage (simulación de persistencia)
 - Azure Static Web Apps (para despliegue)
