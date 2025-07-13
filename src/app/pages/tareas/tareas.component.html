@@ -1,0 +1,20 @@
+<a [routerLink]="['/formulario']" routerLinkActive="router-link-active"  class="inline-block mb-4 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700" >Agregar nueva tarea</a>
+<div *ngIf="tareas.length === 0">No hay tareas.</div>
+
+<ul class="space-y-4">
+    <li *ngFor="let tarea of tareas" class="p-4 rounded shadow bg-white">
+        <h2 class="text-lg font-semibold">{{ tarea.titulo}}</h2>
+        <p class="text-sm text-gray-600">{{ tarea.descripcion}}</p>
+        <p class="mt-2">
+            <span
+                class="px-2 py-1 rounded text-xs font-bold"
+                [ngClass]="{
+                    'bg-green-100 text-green-700': tarea.estado === 'completada',
+                    'bg-yellow-100 text-yellow-700': tarea.estado === 'pendiente'
+                }"     
+            >
+            {{tarea.estado | titlecase}}
+            </span>
+        </p>
+    </li>
+</ul>

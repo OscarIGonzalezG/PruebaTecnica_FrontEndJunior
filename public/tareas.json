@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "titulo": "Tarea de prueba",
+    "descripcion": "Esto es una tarea de ejemplo",
+    "estado": "pendiente"
+  },
+  {
+    "id": 2,
+    "titulo": "Asegurarse que funcione",
+    "descripcion": "Las tareas tiene que funcionar",
+    "estado": "completada"
+  }
+
+]
