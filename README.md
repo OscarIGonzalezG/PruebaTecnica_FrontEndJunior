@@ -9,7 +9,7 @@ Aplicación desarrollada como parte de una prueba técnica para el cargo de Desa
 - Angular 19
 - Tailwind CSS
 - localStorage (simulación de persistencia)
-- Azure Static Web Apps (para despliegue)
+
 
 ---
 
