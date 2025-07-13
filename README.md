@@ -24,13 +24,6 @@ Aplicación desarrollada como parte de una prueba técnica para el cargo de Desa
 
 ---
 
-## 🚀 Demo en línea
-
-🔗 [https://thankful-forest-023685e1e.1.azurestaticapps.net](https://thankful-forest-023685e1e.1.azurestaticapps.net)  
-*Reemplazar por la URL real tras el despliegue.*
-
----
-
 ## 📦 Instalación local
 
 1. Clonar el repositorio:
@@ -53,16 +46,6 @@ ng serve
 ```
 
 Accede en `http://localhost:4200`
-
----
-
-## ⚙️ Build de producción
-
-```bash
-ng build
-```
-
-El proyecto se compilará en `dist/tarea-app`.
 
 ---
 
