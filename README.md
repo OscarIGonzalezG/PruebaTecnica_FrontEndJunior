@@ -26,7 +26,7 @@ Aplicación desarrollada como parte de una prueba técnica para el cargo de Desa
 
 ## 🚀 Demo en línea
 
-🔗 [https://nombre-de-tu-app.azurestaticapps.net](https://thankful-forest-023685e1e.1.azurestaticapps.net)  
+🔗 [https://thankful-forest-023685e1e.1.azurestaticapps.net](https://thankful-forest-023685e1e.1.azurestaticapps.net)  
 *Reemplazar por la URL real tras el despliegue.*
 
 ---
